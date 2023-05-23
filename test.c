@@ -7,7 +7,7 @@ void overflow_function (char *str)
 {
   char buffer[20];
 
-  strcpy(buffer, str);  // Function that copies str to buffer
+  strcpy(buffer, str);  
 }
 
 int main()
